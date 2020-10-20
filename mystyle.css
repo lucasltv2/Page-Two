@@ -6,6 +6,7 @@ h1 {
   color: #592a4a;
   margin-left: 20px;
   padding: 35px;
+  border-radius: 25px;
   border: 5px dotted #000;
 }
 
