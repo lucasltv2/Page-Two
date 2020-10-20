@@ -19,9 +19,9 @@ div {
   width: 150px;
   height: 150px;
   background: red;
-  transition: width 2s;
+  transition: width 2s, height 2s;
 }
 
 div:hover {
-  width: 300px;
+  width: 200px;
 }
