@@ -27,8 +27,8 @@ p {
   height: 200px;
 }
 
-.button {
-  background-color: #404040; 
+button {
+  background-color: #404040;
   color: white;
   padding: 15px 32px;
   text-align: center;
