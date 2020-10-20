@@ -12,7 +12,13 @@ h1 {
 
 p {
   color: #b4ccff;
+  font-size: 20px;
 
+}
+
+p2 {
+  color: #339966;
+  font-size: 20px;
 }
 
 #zoomin {
