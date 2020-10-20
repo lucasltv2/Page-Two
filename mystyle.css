@@ -22,8 +22,8 @@ p2 {
 }
 
 #zoomin {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   background: #cc6699;
   transition: width 1s, height 1s;
 }
