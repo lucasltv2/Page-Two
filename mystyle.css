@@ -4,10 +4,10 @@ body {
 
 h1 {
   color: #592a4a;
-  margin-left: 20px;
-  padding: 35px;
+  margin-left: 40px;
+  padding: 65px;
   border-radius: 25px;
-  border: 5px dotted #000;
+  border: 2px dotted #000;
 }
 
 p {
